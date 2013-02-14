@@ -1,4 +1,4 @@
-accelerant
-==========
+trendinvesting
+==============
 
-Lean Startups for the Enterprise
+poc for alex @ trendinvesting
