@@ -1,4 +1,4 @@
-trendinvesting
+Accelerant
 ==============
 
-poc for alex @ trendinvesting
+poc for lean startups for the enterprise
