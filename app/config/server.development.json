@@ -1,7 +1,7 @@
 {
   "site": {
-    "hostname": "localhost:3000",
-    "port": 3000,
+    "hostname": "localhost:80",
+    "port": 80,
     "email": "steve.g.messina@gmail.com",
     "pidfile": "/tmp/TRENDinvesting.pid"
   },
